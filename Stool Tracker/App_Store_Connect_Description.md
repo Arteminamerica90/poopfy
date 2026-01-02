@@ -129,3 +129,4 @@ Track your digestive health with detailed entries, statistics, and educational a
 • Beautiful, intuitive interface
 • Support for iPhone and iPad
 
+

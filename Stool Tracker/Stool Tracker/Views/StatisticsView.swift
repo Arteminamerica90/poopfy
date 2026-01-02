@@ -77,6 +77,7 @@ struct StatisticsView: View {
             }
             .navigationTitleCompat("Statistics")
         }
+        .modifier(NavigationViewStyleModifier())
     }
 }
 

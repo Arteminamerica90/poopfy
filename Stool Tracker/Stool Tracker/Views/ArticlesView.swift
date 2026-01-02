@@ -168,6 +168,7 @@ struct ArticlesView: View {
             }
             .navigationTitleCompat("Articles")
         }
+        .modifier(NavigationViewStyleModifier())
     }
 }
 

@@ -52,6 +52,7 @@ struct CalendarView: View {
                 QuickEntryView(selectedTab: $selectedTab, initialDate: selectedDate)
             }
         }
+        .modifier(NavigationViewStyleModifier())
     }
 }
 

@@ -121,6 +121,7 @@ struct ProfileView: View {
             }
             .navigationTitleCompat("Profile")
         }
+        .modifier(NavigationViewStyleModifier())
     }
     
     private func daysSince(_ date: Date) -> String {

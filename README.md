@@ -68,3 +68,4 @@ All data is stored locally on your device using Core Data. No data is transmitte
 
 This app is a simple tracking tool only. It is NOT a medical device or diagnostic tool. Always consult healthcare professionals for medical advice.
 
+

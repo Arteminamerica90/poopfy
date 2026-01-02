@@ -9,9 +9,11 @@ import SwiftUI
 
 struct MainTabView: View {
     @State private var selectedTab = 0
+    @State private var showOnboarding = !UserDefaults.hasCompletedOnboarding
     
     var body: some View {
-        TabView(selection: $selectedTab) {
+        ZStack {
+            TabView(selection: $selectedTab) {
             CalendarView(selectedTab: $selectedTab)
                 .tabItem {
                     Group {
@@ -65,6 +67,13 @@ struct MainTabView: View {
                 .tag(3)
         }
         .accentColor(AppTheme.darkAccentColor)
+        
+        if showOnboarding {
+            OnboardingView(isPresented: $showOnboarding)
+                .transition(.opacity)
+                .zIndex(1)
+        }
+        }
     }
 }
 

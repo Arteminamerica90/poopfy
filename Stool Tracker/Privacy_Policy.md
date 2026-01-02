@@ -101,3 +101,4 @@ By using Stool Tracker, you consent to this Privacy Policy. If you do not agree 
 
 **Remember: Stool Tracker is a simple tracking tool. It is not a substitute for professional medical care. Always consult healthcare professionals for medical advice and treatment.**
 
+

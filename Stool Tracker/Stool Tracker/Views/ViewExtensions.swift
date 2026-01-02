@@ -51,3 +51,11 @@ extension Font {
     }
 }
 
+/// Modifier to force stack navigation style on iPad (iOS 13+)
+struct NavigationViewStyleModifier: ViewModifier {
+    func body(content: Content) -> some View {
+        // StackNavigationViewStyle is available from iOS 13.0
+        content.navigationViewStyle(StackNavigationViewStyle())
+    }
+}
+
