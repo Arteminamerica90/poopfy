@@ -1,0 +1,22 @@
+/* ProfileView Localization - Japanese */
+
+/* Navigation */
+"Profile" = "プロフィール";
+
+/* Statistics Section */
+"General statistics" = "全体的な統計";
+"total entries" = "総エントリ数";
+"days tracking" = "追跡日数";
+
+/* Reminders Section */
+"Reminders" = "リマインダー";
+"Enable reminders" = "リマインダーを有効にする";
+"Reminder time" = "リマインダー時間";
+"Reminder" = "リマインダー";
+"Haven't had a bowel movement in a while, record how you feel" = "しばらく排便がありません。体調を記録してください";
+
+/* About Section */
+"About" = "について";
+"Version 1.0.0" = "バージョン 1.0.0";
+"This app helps you track your bowel movements and maintain a healthy lifestyle." = "このアプリは、排便を追跡し、健康的なライフスタイルを維持するのに役立ちます。";
+

@@ -1,0 +1,22 @@
+/* ProfileView Localization - Simplified Chinese */
+
+/* Navigation */
+"Profile" = "个人资料";
+
+/* Statistics Section */
+"General statistics" = "总体统计";
+"total entries" = "总条目";
+"days tracking" = "跟踪天数";
+
+/* Reminders Section */
+"Reminders" = "提醒";
+"Enable reminders" = "启用提醒";
+"Reminder time" = "提醒时间";
+"Reminder" = "提醒";
+"Haven't had a bowel movement in a while, record how you feel" = "有一段时间没有排便了，记录一下您的感受";
+
+/* About Section */
+"About" = "关于";
+"Version 1.0.0" = "版本 1.0.0";
+"This app helps you track your bowel movements and maintain a healthy lifestyle." = "此应用程序帮助您跟踪排便情况并保持健康的生活方式。";
+

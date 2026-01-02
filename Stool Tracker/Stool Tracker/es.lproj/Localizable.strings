@@ -1,0 +1,22 @@
+/* ProfileView Localization - Spanish */
+
+/* Navigation */
+"Profile" = "Perfil";
+
+/* Statistics Section */
+"General statistics" = "Estadísticas generales";
+"total entries" = "entradas totales";
+"days tracking" = "días de seguimiento";
+
+/* Reminders Section */
+"Reminders" = "Recordatorios";
+"Enable reminders" = "Activar recordatorios";
+"Reminder time" = "Hora del recordatorio";
+"Reminder" = "Recordatorio";
+"Haven't had a bowel movement in a while, record how you feel" = "Ha pasado tiempo desde la última deposición, registra cómo te sientes";
+
+/* About Section */
+"About" = "Acerca de";
+"Version 1.0.0" = "Versión 1.0.0";
+"This app helps you track your bowel movements and maintain a healthy lifestyle." = "Esta aplicación te ayuda a rastrear tus deposiciones y mantener un estilo de vida saludable.";
+

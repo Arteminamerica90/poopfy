@@ -1,0 +1,22 @@
+/* ProfileView Localization - English */
+
+/* Navigation */
+"Profile" = "Profile";
+
+/* Statistics Section */
+"General statistics" = "General statistics";
+"total entries" = "total entries";
+"days tracking" = "days tracking";
+
+/* Reminders Section */
+"Reminders" = "Reminders";
+"Enable reminders" = "Enable reminders";
+"Reminder time" = "Reminder time";
+"Reminder" = "Reminder";
+"Haven't had a bowel movement in a while, record how you feel" = "Haven't had a bowel movement in a while, record how you feel";
+
+/* About Section */
+"About" = "About";
+"Version 1.0.0" = "Version 1.0.0";
+"This app helps you track your bowel movements and maintain a healthy lifestyle." = "This app helps you track your bowel movements and maintain a healthy lifestyle.";
+

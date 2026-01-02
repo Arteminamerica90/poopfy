@@ -1,0 +1,103 @@
+# Privacy Policy for Stool Tracker
+
+**Last Updated: January 2, 2026**
+
+## Introduction
+
+Stool Tracker ("we," "our," or "the App") is a personal health tracking application designed to help users monitor their bowel movements. This Privacy Policy explains how we handle your information and data.
+
+## Important Disclaimer
+
+**Stool Tracker is a simple tracking tool only. It is NOT a medical device, medical application, or diagnostic tool.**
+
+- This app does not provide medical advice, diagnosis, or treatment recommendations
+- The information you enter is for personal tracking purposes only
+- We do not analyze, interpret, or provide medical opinions on your data
+- This app cannot and should not replace professional medical consultation
+
+## Data Collection and Storage
+
+### What We Collect
+Stool Tracker collects and stores the following information locally on your device:
+- Date and time of bowel movements
+- Bristol Stool Scale type (1-7)
+- Stool color
+- Volume estimation
+- Symptoms (pain, blood, mucus indicators)
+- Optional comments
+- Reminder preferences
+
+### How We Store Your Data
+- **All data is stored locally on your device** using Core Data
+- We do NOT collect, transmit, or store your data on external servers
+- We do NOT have access to your personal health information
+- We do NOT share your data with third parties
+- We do NOT use analytics or tracking services
+
+### Data Privacy
+- Your data never leaves your device
+- We cannot access your personal information
+- No account registration or login is required
+- No internet connection is needed for core functionality
+
+## What We Are NOT Responsible For
+
+By using Stool Tracker, you acknowledge and agree that:
+
+1. **Medical Disclaimer**: This app is not intended to diagnose, treat, cure, or prevent any disease or medical condition. Always consult with qualified healthcare professionals for medical advice.
+
+2. **No Medical Advice**: The information and features provided in this app are for informational and tracking purposes only. We do not provide medical, health, or professional advice.
+
+3. **Data Accuracy**: We are not responsible for the accuracy, completeness, or reliability of any information you enter into the app. You are solely responsible for the data you input.
+
+4. **Health Decisions**: We are not responsible for any health decisions you make based on the data tracked in this app. Always consult healthcare professionals for medical concerns.
+
+5. **Data Loss**: While we use standard iOS data storage mechanisms, we are not responsible for any data loss that may occur due to:
+   - Device malfunction or damage
+   - Operating system updates
+   - App updates
+   - Device replacement or reset
+   - Uninstallation of the app
+
+6. **Third-Party Services**: This app does not integrate with third-party services, health platforms, or cloud storage. We are not responsible for any third-party integrations you may attempt.
+
+7. **Device Compatibility**: We are not responsible for compatibility issues with specific iOS versions or device models beyond our stated minimum requirements (iOS 13.0+).
+
+8. **App Availability**: We reserve the right to modify, suspend, or discontinue the app at any time without notice.
+
+## User Responsibilities
+
+You are responsible for:
+- Maintaining the security of your device
+- Backing up your data if desired (using standard iOS backup methods)
+- Consulting healthcare professionals for any medical concerns
+- Using the app in accordance with its intended purpose
+- Not relying on this app for medical diagnosis or treatment
+
+## Children's Privacy
+
+Stool Tracker is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy in the app or on our website. Changes are effective immediately upon posting.
+
+## Contact Information
+
+If you have any questions about this Privacy Policy or the app, please contact us at:
+[Your contact email here]
+
+## Consent
+
+By using Stool Tracker, you consent to this Privacy Policy. If you do not agree with this policy, please do not use the app.
+
+## Legal Notice
+
+**THIS APP IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.**
+
+**IN NO EVENT SHALL THE DEVELOPERS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE APP OR THE USE OR OTHER DEALINGS IN THE APP.**
+
+---
+
+**Remember: Stool Tracker is a simple tracking tool. It is not a substitute for professional medical care. Always consult healthcare professionals for medical advice and treatment.**
+
